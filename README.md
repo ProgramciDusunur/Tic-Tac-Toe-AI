@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-AI
+# TicTacToe AI
